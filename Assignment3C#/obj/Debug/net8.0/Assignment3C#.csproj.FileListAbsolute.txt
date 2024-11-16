@@ -1,0 +1,14 @@
+F:\C# Projects\Assignment3C#\bin\Debug\net8.0\Assignment3C#.exe
+F:\C# Projects\Assignment3C#\bin\Debug\net8.0\Assignment3C#.deps.json
+F:\C# Projects\Assignment3C#\bin\Debug\net8.0\Assignment3C#.runtimeconfig.json
+F:\C# Projects\Assignment3C#\bin\Debug\net8.0\Assignment3C#.dll
+F:\C# Projects\Assignment3C#\bin\Debug\net8.0\Assignment3C#.pdb
+F:\C# Projects\Assignment3C#\obj\Debug\net8.0\Assignment3C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\Assignment3C#\obj\Debug\net8.0\Assignment3C#.AssemblyInfoInputs.cache
+F:\C# Projects\Assignment3C#\obj\Debug\net8.0\Assignment3C#.AssemblyInfo.cs
+F:\C# Projects\Assignment3C#\obj\Debug\net8.0\Assignment3C#.csproj.CoreCompileInputs.cache
+F:\C# Projects\Assignment3C#\obj\Debug\net8.0\Assignment3C#.dll
+F:\C# Projects\Assignment3C#\obj\Debug\net8.0\refint\Assignment3C#.dll
+F:\C# Projects\Assignment3C#\obj\Debug\net8.0\Assignment3C#.pdb
+F:\C# Projects\Assignment3C#\obj\Debug\net8.0\Assignment3C#.genruntimeconfig.cache
+F:\C# Projects\Assignment3C#\obj\Debug\net8.0\ref\Assignment3C#.dll

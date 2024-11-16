@@ -1,0 +1,14 @@
+F:\C# Projects\demo_session3_c#\bin\Debug\net8.0\demo_session3_c#.exe
+F:\C# Projects\demo_session3_c#\bin\Debug\net8.0\demo_session3_c#.deps.json
+F:\C# Projects\demo_session3_c#\bin\Debug\net8.0\demo_session3_c#.runtimeconfig.json
+F:\C# Projects\demo_session3_c#\bin\Debug\net8.0\demo_session3_c#.dll
+F:\C# Projects\demo_session3_c#\bin\Debug\net8.0\demo_session3_c#.pdb
+F:\C# Projects\demo_session3_c#\obj\Debug\net8.0\demo_session3_c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\demo_session3_c#\obj\Debug\net8.0\demo_session3_c#.AssemblyInfoInputs.cache
+F:\C# Projects\demo_session3_c#\obj\Debug\net8.0\demo_session3_c#.AssemblyInfo.cs
+F:\C# Projects\demo_session3_c#\obj\Debug\net8.0\demo_session3_c#.csproj.CoreCompileInputs.cache
+F:\C# Projects\demo_session3_c#\obj\Debug\net8.0\demo_session3_c#.dll
+F:\C# Projects\demo_session3_c#\obj\Debug\net8.0\refint\demo_session3_c#.dll
+F:\C# Projects\demo_session3_c#\obj\Debug\net8.0\demo_session3_c#.pdb
+F:\C# Projects\demo_session3_c#\obj\Debug\net8.0\demo_session3_c#.genruntimeconfig.cache
+F:\C# Projects\demo_session3_c#\obj\Debug\net8.0\ref\demo_session3_c#.dll
